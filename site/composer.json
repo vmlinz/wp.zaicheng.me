@@ -35,7 +35,7 @@
       "type": "package",
       "package": {
         "name": "qdly/gdlr-hostel",
-        "version": "master",
+        "version": "1.0",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
@@ -47,7 +47,7 @@
       "type": "package",
       "package": {
         "name": "qdly/gdlr-hotel",
-        "version": "master",
+        "version": "1.0",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
@@ -59,7 +59,7 @@
       "type": "package",
       "package": {
         "name": "qdly/gdlr-portfolio",
-        "version": "master",
+        "version": "1.0",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
@@ -71,7 +71,7 @@
       "type": "package",
       "package": {
         "name": "qdly/goodlayers-importer",
-        "version": "master",
+        "version": "1.0",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
@@ -83,7 +83,7 @@
       "type": "package",
       "package": {
         "name": "qdly/masterslider",
-        "version": "master",
+        "version": "1.0",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
@@ -95,7 +95,7 @@
       "type": "package",
       "package": {
         "name": "qdly/hotelmaster",
-        "version": "master",
+        "version": "1.0",
         "type": "wordpress-theme",
         "dist": {
           "type": "zip",
@@ -110,12 +110,12 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.4.2",
     "oscarotero/env": "^1.0",
-    "qdly/gdlr-hostel": "master",
-    "qdly/gdlr-hotel": "master",
-    "qdly/gdlr-portfolio": "master",
-    "qdly/goodlayers-importer": "master",
-    "qdly/masterslider": "master",
-    "qdly/hotelmaster": "master"
+    "qdly/gdlr-hostel": "1.0",
+    "qdly/gdlr-hotel": "1.0",
+    "qdly/gdlr-portfolio": "1.0",
+    "qdly/goodlayers-importer": "1.0",
+    "qdly/masterslider": "1.0",
+    "qdly/hotelmaster": "1.0"
   },
   "extra": {
     "installer-paths": {
