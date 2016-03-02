@@ -4,7 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "2e0f6d1aedb133935102cc91979957e3",
+    "hash": "54b6d2c7aaf247bd9addff7c633cc7dd",
+    "content-hash": "d773d2fd38d49d1e731d3c59a52de5f9",
     "packages": [
         {
             "name": "composer/installers",
@@ -230,6 +231,83 @@
                 "env"
             ],
             "time": "2015-12-31 12:34:29"
+        },
+        {
+            "name": "qdly/gdlr-hostel",
+            "version": "1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-hostel.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "qdly/gdlr-hotel",
+            "version": "1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-hotel.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "qdly/gdlr-portfolio",
+            "version": "1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-portfolio.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "qdly/gdlr-shortcode",
+            "version": "1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-shortcode.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "qdly/goodlayers-importer",
+            "version": "1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/goodlayers-importer.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "qdly/hotelmaster",
+            "version": "1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/themes/hotelmaster.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-theme"
+        },
+        {
+            "name": "qdly/masterslider",
+            "version": "1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/masterslider.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin"
         },
         {
             "name": "vlucas/phpdotenv",
