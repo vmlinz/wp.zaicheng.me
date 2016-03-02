@@ -40,7 +40,7 @@
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fgdlr-hostel.zip"
+          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-hostel.zip"
         }
       }
     },
@@ -52,7 +52,7 @@
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fgdlr-hotel.zip"
+          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-hotel.zip"
         }
       }
     },
@@ -64,7 +64,19 @@
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fgdlr-portfolio.zip"
+          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-portfolio.zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "qdly/gdlr-shortcode",
+        "version": "1.0",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-shortcode.zip"
         }
       }
     },
@@ -76,7 +88,7 @@
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fgoodlayers-importer.zip"
+          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/goodlayers-importer.zip"
         }
       }
     },
@@ -88,7 +100,7 @@
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fmasterslider.zip"
+          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/masterslider.zip"
         }
       }
     },
@@ -100,7 +112,7 @@
         "type": "wordpress-theme",
         "dist": {
           "type": "zip",
-          "url": "http://7xovhd.com1.z0.glb.clouddn.com/themes%2Fhotelmaster.zip"
+          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/themes/hotelmaster.zip"
         }
       }
     }
@@ -114,6 +126,7 @@
     "qdly/gdlr-hostel": "1.0",
     "qdly/gdlr-hotel": "1.0",
     "qdly/gdlr-portfolio": "1.0",
+    "qdly/gdlr-shortcode": "1.0",
     "qdly/goodlayers-importer": "1.0",
     "qdly/masterslider": "1.0",
     "qdly/hotelmaster": "1.0"
