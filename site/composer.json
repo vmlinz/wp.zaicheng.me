@@ -30,6 +30,78 @@
     {
       "type": "composer",
       "url": "http://wpackagist.org"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "qdly/gdlr-hostel",
+        "version": "master",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fgdlr-hostel.zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "qdly/gdlr-hotel",
+        "version": "master",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fgdlr-hotel.zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "qdly/gdlr-portfolio",
+        "version": "master",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fgdlr-portfolio.zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "qdly/goodlayers-importer",
+        "version": "master",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fgoodlayers-importer.zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "qdly/masterslider",
+        "version": "master",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "http://7xovhd.com1.z0.glb.clouddn.com/plugins%2Fmasterslider.zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "qdly/hotelmaster",
+        "version": "master",
+        "type": "wordpress-theme",
+        "dist": {
+          "type": "zip",
+          "url": "http://7xovhd.com1.z0.glb.clouddn.com/themes%2Fhotelmaster.zip"
+        }
+      }
     }
   ],
   "require": {
@@ -37,7 +109,13 @@
     "composer/installers": "~1.0.12",
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.4.2",
-    "oscarotero/env": "^1.0"
+    "oscarotero/env": "^1.0",
+    "qdly/gdlr-hostel": "master",
+    "qdly/gdlr-hotel": "master",
+    "qdly/gdlr-portfolio": "master",
+    "qdly/goodlayers-importer": "master",
+    "qdly/masterslider": "master",
+    "qdly/hotelmaster": "master"
   },
   "extra": {
     "installer-paths": {
