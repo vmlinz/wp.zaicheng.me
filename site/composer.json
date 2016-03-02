@@ -25,96 +25,11 @@
   },
   "config": {
     "preferred-install": "dist",
-    "secure-http": "false"
   },
   "repositories": [
     {
       "type": "composer",
       "url": "https://wpackagist.org"
-    },
-    {
-      "type": "package",
-      "package": {
-        "name": "qdly/gdlr-hostel",
-        "version": "1.0",
-        "type": "wordpress-plugin",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-hostel.zip"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
-        "name": "qdly/gdlr-hotel",
-        "version": "1.0",
-        "type": "wordpress-plugin",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-hotel.zip"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
-        "name": "qdly/gdlr-portfolio",
-        "version": "1.0",
-        "type": "wordpress-plugin",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-portfolio.zip"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
-        "name": "qdly/gdlr-shortcode",
-        "version": "1.0",
-        "type": "wordpress-plugin",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/gdlr-shortcode.zip"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
-        "name": "qdly/goodlayers-importer",
-        "version": "1.0",
-        "type": "wordpress-plugin",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/goodlayers-importer.zip"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
-        "name": "qdly/masterslider",
-        "version": "1.0",
-        "type": "wordpress-plugin",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/plugins/masterslider.zip"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
-        "name": "qdly/hotelmaster",
-        "version": "1.0",
-        "type": "wordpress-theme",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/vmlinz/resources.jasmins-hotel.com/raw/master/resources/themes/hotelmaster.zip"
-        }
-      }
     }
   ],
   "require": {
@@ -123,13 +38,6 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.4.2",
     "oscarotero/env": "^1.0",
-    "qdly/gdlr-hostel": "1.0",
-    "qdly/gdlr-hotel": "1.0",
-    "qdly/gdlr-portfolio": "1.0",
-    "qdly/gdlr-shortcode": "1.0",
-    "qdly/goodlayers-importer": "1.0",
-    "qdly/masterslider": "1.0",
-    "qdly/hotelmaster": "1.0"
   },
   "extra": {
     "installer-paths": {
